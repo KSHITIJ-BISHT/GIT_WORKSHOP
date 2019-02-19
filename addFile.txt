@@ -1,0 +1,6 @@
+git add <filename>   // for a particular file to be added to staging area
+
+git add .     // for all files to be added to staging area
+
+git commit -m "<Message>"
+git commit
