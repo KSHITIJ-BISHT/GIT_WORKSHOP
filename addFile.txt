@@ -4,4 +4,6 @@ git add .     // for all files to be added to staging area
 
 git commit -m "<Message>"
 git commit
+
 git commit -C HEAD --amend   // for changing the file with previous commit message
+
